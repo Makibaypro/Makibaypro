@@ -61,7 +61,7 @@ Développeur web fullstack JavaScript en reconversion, en formation à Ada Tech 
 
 ## Liens
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Makibaypro/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chotard-98aaa1106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-chotard)
 
 ![Visites du profil](https://komarev.com/ghpvc/?username=Makibaypro&label=Visites&color=0369a1&style=flat)
 
