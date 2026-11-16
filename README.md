@@ -1,6 +1,6 @@
-# Maxence C
+# Maxence Chotard
 
-Développeur web fullstack JavaScript en reconversion, en formation à Ada Tech School près de Nantes depuis mai 2026. Je viens de la 3D et du visuel, et je cherche une alternance en développement web.
+Développeur web fullstack JavaScript en reconversion, en formation à Ada Tech School près de Nantes depuis mai 2026. Je viens de la 3D et du visuel, et je cherche une alternance d’un an en développement web à partir de février-mars 2027.
 
 ## Compétences
 <table><tr>
